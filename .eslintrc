@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "env": {
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "script"
+  },
+  "plugins": [
+    "react"
+  ]
+}
