@@ -1,4 +1,5 @@
-const launcher = require('./lib/duplicate-products')
+const launcher = require('./github/merged.commits')
+// const launcher = require('./lib/curry')
 
 console.log('before ... ') // eslint-disable-line no-console
 
